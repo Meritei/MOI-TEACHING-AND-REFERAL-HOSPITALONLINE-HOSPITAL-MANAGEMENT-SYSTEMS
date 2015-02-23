@@ -1,0 +1,2 @@
+# MOI-TEACHING-AND-REFERAL-HOSPITALONLINE-HOSPITAL-MANAGEMENT-SYSTEMS
+Online hospital management system will provide online services for patient registration, lab results records ,patient diagnosis records,prescription records , patient admition records , patient follow up platform,payments records , referal records,Consultations bookings and other medical services booking .This will make it easy for the patients to access e-recepts,medical records,balance statements .
